@@ -2,8 +2,6 @@
 
 This is the project for React application testing
 
-https://codewithmosh.com
-
 ## About this Project
 
 This is a React app built with the following technologies and libraries:
