@@ -11,7 +11,7 @@ describe("UserList", () => {
 
   it("should render a list of users", () => {
     const users: User[] = [
-      { id: 1, name: "Mosh" },
+      { id: 1, name: "Kelvie" },
       { id: 2, name: "John" },
     ];
 
